@@ -80,5 +80,3 @@ Você receberá um **arquivo de log simulado** com registros de acessos ao siste
 | **Total**                             | **10 pts** |
 
 ---
-
-Se quiser, posso gerar o **arquivo completo com 30+ linhas de logs**, ou incluir logs de **firewall, servidores de arquivos ou banco de dados** para ampliar a complexidade. Deseja isso?
