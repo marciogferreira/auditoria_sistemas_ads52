@@ -1,0 +1,100 @@
+[2025-05-13 01:00:00] FILE ACCESSED - user: admin - file: folha_pagamento.xls
+[2025-05-13 01:01:00] FILE DELETED - user: joana.lima - file: contratos_2022.docx
+[2025-05-13 01:02:00] FILE DELETED - user: paulo.souza - file: dados_clientes.csv
+[2025-05-13 01:07:00] LOGIN FAILURE - user: paulo.souza - IP: 172.16.0.3
+[2025-05-13 01:11:00] LOGIN FAILURE - user: joana.lima - IP: 172.16.0.3
+[2025-05-13 01:20:00] PASSWORD CHANGED - user: paulo.souza
+[2025-05-13 01:26:00] PRIVILEGE ESCALATION - user: paulo.souza
+[2025-05-13 01:33:00] PASSWORD CHANGED - user: joana.lima
+[2025-05-13 01:38:00] LOGOUT - user: carlos.oliveira - IP: 172.16.0.3
+[2025-05-13 01:41:00] LOGOUT - user: paulo.souza - IP: 10.0.0.5
+[2025-05-13 01:49:00] PASSWORD CHANGED - user: joana.lima
+[2025-05-13 01:50:00] LOGIN SUCCESS - user: admin - IP: 201.24.55.89
+[2025-05-13 02:00:00] LOGOUT - user: carlos.oliveira - IP: 172.16.0.3
+[2025-05-13 02:10:00] LOGIN SUCCESS - user: admin - IP: 201.24.55.89
+[2025-05-13 02:14:00] FILE ACCESSED - user: carlos.oliveira - file: folha_pagamento.xls
+[2025-05-13 02:20:00] FILE ACCESSED - user: joana.lima - file: dados_clientes.csv
+[2025-05-13 02:22:00] LOGIN FAILURE - user: marina.alves - IP: 172.16.0.3
+[2025-05-13 02:32:00] LOGOUT - user: marina.alves - IP: 190.85.20.101
+[2025-05-13 02:35:00] LOGIN FAILURE - user: marina.alves - IP: 192.168.0.12
+[2025-05-13 02:40:00] PRIVILEGE ESCALATION - user: paulo.souza
+[2025-05-13 02:43:00] FILE ACCESSED - user: paulo.souza - file: dados_clientes.csv
+[2025-05-13 02:47:00] LOGIN FAILURE - user: joana.lima - IP: 172.16.0.3
+[2025-05-13 02:56:00] LOGOUT - user: admin - IP: 192.168.0.12
+[2025-05-13 03:06:00] LOGIN FAILURE - user: carlos.oliveira - IP: 172.16.0.3
+[2025-05-13 03:08:00] FILE DELETED - user: paulo.souza - file: relatorio_financeiro.pdf
+[2025-05-13 03:11:00] LOGIN SUCCESS - user: joana.lima - IP: 201.24.55.89
+[2025-05-13 03:13:00] FILE ACCESSED - user: admin - file: contratos_2022.docx
+[2025-05-13 03:23:00] LOGIN FAILURE - user: joana.lima - IP: 192.168.0.12
+[2025-05-13 03:24:00] LOGOUT - user: carlos.oliveira - IP: 192.168.0.12
+[2025-05-13 03:33:00] PRIVILEGE ESCALATION - user: paulo.souza
+[2025-05-13 03:41:00] LOGIN SUCCESS - user: joana.lima - IP: 192.168.0.12
+[2025-05-13 03:48:00] PASSWORD CHANGED - user: paulo.souza
+[2025-05-13 03:54:00] LOGOUT - user: carlos.oliveira - IP: 192.168.0.12
+[2025-05-13 03:58:00] LOGIN SUCCESS - user: carlos.oliveira - IP: 172.16.0.3
+[2025-05-13 04:04:00] PRIVILEGE ESCALATION - user: carlos.oliveira
+[2025-05-13 04:13:00] PRIVILEGE ESCALATION - user: paulo.souza
+[2025-05-13 04:23:00] LOGIN FAILURE - user: paulo.souza - IP: 172.16.0.3
+[2025-05-13 04:32:00] LOGOUT - user: joana.lima - IP: 10.0.0.5
+[2025-05-13 04:34:00] LOGOUT - user: paulo.souza - IP: 201.24.55.89
+[2025-05-13 04:40:00] LOGIN SUCCESS - user: paulo.souza - IP: 172.16.0.3
+[2025-05-13 04:50:00] FILE ACCESSED - user: marina.alves - file: folha_pagamento.xls
+[2025-05-13 04:57:00] FILE DELETED - user: paulo.souza - file: contratos_2022.docx
+[2025-05-13 05:06:00] FILE ACCESSED - user: paulo.souza - file: contratos_2022.docx
+[2025-05-13 05:07:00] FILE DELETED - user: paulo.souza - file: dados_clientes.csv
+[2025-05-13 05:16:00] LOGOUT - user: marina.alves - IP: 10.0.0.5
+[2025-05-13 05:18:00] LOGIN FAILURE - user: paulo.souza - IP: 201.24.55.89
+[2025-05-13 05:22:00] FILE DELETED - user: paulo.souza - file: folha_pagamento.xls
+[2025-05-13 05:32:00] PRIVILEGE ESCALATION - user: paulo.souza
+[2025-05-13 05:40:00] LOGOUT - user: paulo.souza - IP: 10.0.0.5
+[2025-05-13 05:50:00] LOGIN SUCCESS - user: admin - IP: 190.85.20.101
+[2025-05-13 05:52:00] PASSWORD CHANGED - user: carlos.oliveira
+[2025-05-13 06:02:00] LOGIN SUCCESS - user: marina.alves - IP: 172.16.0.3
+[2025-05-13 06:05:00] PRIVILEGE ESCALATION - user: admin
+[2025-05-13 06:13:00] PASSWORD CHANGED - user: admin
+[2025-05-13 06:14:00] PRIVILEGE ESCALATION - user: admin
+[2025-05-13 06:23:00] PASSWORD CHANGED - user: admin
+[2025-05-13 06:29:00] LOGIN FAILURE - user: marina.alves - IP: 10.0.0.5
+[2025-05-13 06:33:00] FILE ACCESSED - user: carlos.oliveira - file: folha_pagamento.xls
+[2025-05-13 06:43:00] PRIVILEGE ESCALATION - user: joana.lima
+[2025-05-13 06:46:00] PRIVILEGE ESCALATION - user: carlos.oliveira
+[2025-05-13 06:48:00] FILE ACCESSED - user: admin - file: backup.zip
+[2025-05-13 06:51:00] PASSWORD CHANGED - user: paulo.souza
+[2025-05-13 06:58:00] PRIVILEGE ESCALATION - user: joana.lima
+[2025-05-13 06:59:00] LOGIN FAILURE - user: paulo.souza - IP: 192.168.0.12
+[2025-05-13 07:09:00] FILE ACCESSED - user: carlos.oliveira - file: dados_clientes.csv
+[2025-05-13 07:13:00] PASSWORD CHANGED - user: paulo.souza
+[2025-05-13 07:17:00] PRIVILEGE ESCALATION - user: joana.lima
+[2025-05-13 07:20:00] FILE DELETED - user: paulo.souza - file: folha_pagamento.xls
+[2025-05-13 07:24:00] LOGIN FAILURE - user: paulo.souza - IP: 172.16.0.3
+[2025-05-13 07:28:00] LOGOUT - user: admin - IP: 192.168.0.12
+[2025-05-13 07:36:00] PRIVILEGE ESCALATION - user: paulo.souza
+[2025-05-13 07:46:00] LOGOUT - user: paulo.souza - IP: 10.0.0.5
+[2025-05-13 07:49:00] FILE ACCESSED - user: marina.alves - file: contratos_2022.docx
+[2025-05-13 07:51:00] LOGIN FAILURE - user: carlos.oliveira - IP: 172.16.0.3
+[2025-05-13 07:53:00] LOGIN FAILURE - user: admin - IP: 10.0.0.5
+[2025-05-13 07:57:00] PASSWORD CHANGED - user: marina.alves
+[2025-05-13 08:01:00] PRIVILEGE ESCALATION - user: marina.alves
+[2025-05-13 08:11:00] LOGIN FAILURE - user: paulo.souza - IP: 10.0.0.5
+[2025-05-13 08:12:00] LOGIN SUCCESS - user: admin - IP: 10.0.0.5
+[2025-05-13 08:16:00] PRIVILEGE ESCALATION - user: marina.alves
+[2025-05-13 08:18:00] FILE ACCESSED - user: admin - file: folha_pagamento.xls
+[2025-05-13 08:23:00] PRIVILEGE ESCALATION - user: carlos.oliveira
+[2025-05-13 08:33:00] LOGIN FAILURE - user: paulo.souza - IP: 201.24.55.89
+[2025-05-13 08:38:00] FILE ACCESSED - user: paulo.souza - file: dados_clientes.csv
+[2025-05-13 08:48:00] FILE ACCESSED - user: paulo.souza - file: relatorio_financeiro.pdf
+[2025-05-13 08:52:00] LOGIN FAILURE - user: joana.lima - IP: 10.0.0.5
+[2025-05-13 09:00:00] PASSWORD CHANGED - user: paulo.souza
+[2025-05-13 09:02:00] FILE ACCESSED - user: paulo.souza - file: folha_pagamento.xls
+[2025-05-13 09:10:00] FILE DELETED - user: carlos.oliveira - file: backup.zip
+[2025-05-13 09:14:00] LOGOUT - user: carlos.oliveira - IP: 172.16.0.3
+[2025-05-13 09:17:00] LOGIN FAILURE - user: marina.alves - IP: 192.168.0.12
+[2025-05-13 09:27:00] FILE ACCESSED - user: admin - file: contratos_2022.docx
+[2025-05-13 09:32:00] LOGIN FAILURE - user: carlos.oliveira - IP: 201.24.55.89
+[2025-05-13 09:40:00] LOGIN SUCCESS - user: carlos.oliveira - IP: 192.168.0.12
+[2025-05-13 09:41:00] LOGIN SUCCESS - user: marina.alves - IP: 10.0.0.5
+[2025-05-13 09:42:00] LOGIN SUCCESS - user: admin - IP: 192.168.0.12
+[2025-05-13 09:45:00] LOGOUT - user: paulo.souza - IP: 172.16.0.3
+[2025-05-13 09:53:00] PRIVILEGE ESCALATION - user: carlos.oliveira
+[2025-05-13 10:01:00] FILE DELETED - user: joana.lima - file: dados_clientes.csv
+[2025-05-13 10:08:00] LOGOUT - user: paulo.souza - IP: 190.85.20.101

@@ -1,0 +1,30 @@
+[2025-05-13 01:00:00] PASSWORD CHANGED - user: marina.alves
+[2025-05-13 01:26:00] LOGIN SUCCESS - user: admin - IP: 192.168.0.12
+[2025-05-13 01:39:00] LOGOUT - user: marina.alves - IP: 190.85.20.101
+[2025-05-13 01:43:00] PRIVILEGE ESCALATION - user: admin
+[2025-05-13 01:52:00] PRIVILEGE ESCALATION - user: paulo.souza
+[2025-05-13 02:17:00] FILE DELETED - user: carlos.oliveira - file: relatorio_financeiro.pdf
+[2025-05-13 02:47:00] FILE DELETED - user: carlos.oliveira - file: contratos_2022.docx
+[2025-05-13 03:00:00] PASSWORD CHANGED - user: marina.alves
+[2025-05-13 03:07:00] PASSWORD CHANGED - user: paulo.souza
+[2025-05-13 03:35:00] PRIVILEGE ESCALATION - user: marina.alves
+[2025-05-13 03:46:00] LOGIN FAILURE - user: marina.alves - IP: 190.85.20.101
+[2025-05-13 04:12:00] FILE ACCESSED - user: paulo.souza - file: relatorio_financeiro.pdf
+[2025-05-13 04:16:00] LOGIN FAILURE - user: marina.alves - IP: 201.24.55.89
+[2025-05-13 04:30:00] PASSWORD CHANGED - user: marina.alves
+[2025-05-13 04:59:00] PRIVILEGE ESCALATION - user: admin
+[2025-05-13 05:16:00] LOGOUT - user: joana.lima - IP: 201.24.55.89
+[2025-05-13 05:24:00] LOGIN SUCCESS - user: paulo.souza - IP: 192.168.0.12
+[2025-05-13 05:53:00] PRIVILEGE ESCALATION - user: joana.lima
+[2025-05-13 06:05:00] PASSWORD CHANGED - user: carlos.oliveira
+[2025-05-13 06:15:00] PASSWORD CHANGED - user: joana.lima
+[2025-05-13 06:21:00] LOGIN FAILURE - user: joana.lima - IP: 190.85.20.101
+[2025-05-13 06:44:00] LOGIN SUCCESS - user: admin - IP: 10.0.0.5
+[2025-05-13 07:05:00] FILE ACCESSED - user: paulo.souza - file: relatorio_financeiro.pdf
+[2025-05-13 07:27:00] LOGIN FAILURE - user: joana.lima - IP: 10.0.0.5
+[2025-05-13 07:34:00] LOGIN SUCCESS - user: admin - IP: 201.24.55.89
+[2025-05-13 07:37:00] LOGIN FAILURE - user: joana.lima - IP: 201.24.55.89
+[2025-05-13 07:55:00] PASSWORD CHANGED - user: joana.lima
+[2025-05-13 07:57:00] PRIVILEGE ESCALATION - user: marina.alves
+[2025-05-13 08:21:00] PRIVILEGE ESCALATION - user: paulo.souza
+[2025-05-13 08:36:00] LOGOUT - user: admin - IP: 190.85.20.101

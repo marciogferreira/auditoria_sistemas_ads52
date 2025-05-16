@@ -1,0 +1,120 @@
+[2025-05-13 01:00:00] PASSWORD CHANGED - user: firewall
+[2025-05-13 01:02:00] FILE DOWNLOADED - user: carlos.oliveira - file: produtos
+[2025-05-13 01:04:00] FILE DOWNLOADED - user: marina.alves - file: usuarios
+[2025-05-13 01:05:00] SHARE DELETED - user: paulo.souza - file: log_archive.zip
+[2025-05-13 01:11:00] FILE UPLOADED - user: file_server - file: dados_clientes.csv
+[2025-05-13 01:15:00] LOGIN SUCCESS - user: joana.lima - IP: 201.24.55.89
+[2025-05-13 01:19:00] FILE DOWNLOADED - user: admin - file: relatorio_financeiro.pdf
+[2025-05-13 01:21:00] FILE DOWNLOADED - user: joana.lima - file: backup.zip
+[2025-05-13 01:23:00] FILE UPLOADED - user: joana.lima - file: produtos
+[2025-05-13 01:25:00] LOGIN FAILURE - user: file_server - IP: 8.8.8.8
+[2025-05-13 01:29:00] FILE DOWNLOADED - user: file_server - file: usuarios
+[2025-05-13 01:32:00] PRIVILEGE ESCALATION - user: firewall
+[2025-05-13 01:35:00] BACKUP STARTED - user: paulo.souza - database: sistema_central
+[2025-05-13 01:39:00] FILE DELETED - user: paulo.souza - file: dados_clientes.csv
+[2025-05-13 01:43:00] QUERY EXECUTED - user: joana.lima - database: sistema_central
+[2025-05-13 01:46:00] FILE UPLOADED - user: db_admin - file: produtos
+[2025-05-13 01:47:00] PRIVILEGE ESCALATION - user: joana.lima
+[2025-05-13 01:49:00] DB LOGIN SUCCESS - user: paulo.souza - IP: 190.85.20.101
+[2025-05-13 01:51:00] LOGOUT - user: joana.lima - IP: 192.168.0.12
+[2025-05-13 01:56:00] FILE UPLOADED - user: paulo.souza - file: backup.zip
+[2025-05-13 01:57:00] FILE UPLOADED - user: joana.lima - file: config.json
+[2025-05-13 02:01:00] PASSWORD CHANGED - user: firewall
+[2025-05-13 02:03:00] PORT SCAN DETECTED - user: file_server - SOURCE IP: 192.168.0.12 - TARGET: 192.168.0.1
+[2025-05-13 02:05:00] SHARE CREATED - user: admin - file: clientes
+[2025-05-13 02:11:00] PASSWORD CHANGED - user: marina.alves
+[2025-05-13 02:13:00] FILE UPLOADED - user: firewall - file: backup.zip
+[2025-05-13 02:19:00] SHARE CREATED - user: carlos.oliveira - file: log_archive.zip
+[2025-05-13 02:21:00] LOGIN SUCCESS - user: marina.alves - IP: 201.24.55.89
+[2025-05-13 02:25:00] LOGOUT - user: admin - IP: 185.199.108.153
+[2025-05-13 02:29:00] FILE ACCESSED - user: paulo.souza - file: relatorio_financeiro.pdf
+[2025-05-13 02:35:00] ACCESS DENIED - user: admin
+[2025-05-13 02:41:00] BACKUP STARTED - user: db_admin - database: sistema_central
+[2025-05-13 02:45:00] SHARE CREATED - user: firewall - file: backup.zip
+[2025-05-13 02:48:00] SHARE DELETED - user: carlos.oliveira - file: relatorio_financeiro.pdf
+[2025-05-13 02:51:00] DB LOGIN SUCCESS - user: firewall - IP: 185.199.108.153
+[2025-05-13 02:53:00] DB LOGIN SUCCESS - user: admin - IP: 8.8.8.8
+[2025-05-13 02:55:00] ACCESS DENIED - user: marina.alves
+[2025-05-13 02:56:00] QUERY EXECUTED - user: file_server - database: sistema_central
+[2025-05-13 03:01:00] FILE UPLOADED - user: paulo.souza - file: folha_pagamento.xls
+[2025-05-13 03:03:00] LOGIN FAILURE - user: db_admin - IP: 185.199.108.153
+[2025-05-13 03:05:00] ACCESS DENIED - user: marina.alves
+[2025-05-13 03:06:00] BACKUP STARTED - user: admin - database: sistema_central
+[2025-05-13 03:08:00] PASSWORD CHANGED - user: db_admin
+[2025-05-13 03:10:00] PRIVILEGE ESCALATION - user: admin
+[2025-05-13 03:14:00] SHARE DELETED - user: carlos.oliveira - file: log_archive.zip
+[2025-05-13 03:19:00] INTRUSION ATTEMPT - user: joana.lima - IP: 8.8.8.8
+[2025-05-13 03:23:00] TABLE DROPPED - user: admin - database: sistema_central
+[2025-05-13 03:28:00] FILE DOWNLOADED - user: admin - file: dados_clientes.csv
+[2025-05-13 03:29:00] LOGOUT - user: file_server - IP: 172.16.0.3
+[2025-05-13 03:31:00] SHARE DELETED - user: joana.lima - file: backup.zip
+[2025-05-13 03:34:00] FILE DELETED - user: carlos.oliveira - file: relatorio_financeiro.pdf
+[2025-05-13 03:40:00] QUERY EXECUTED - user: marina.alves - database: sistema_central
+[2025-05-13 03:41:00] LOGOUT - user: carlos.oliveira - IP: 8.8.8.8
+[2025-05-13 03:47:00] DB LOGIN FAILURE - user: paulo.souza - IP: 8.8.8.8
+[2025-05-13 03:53:00] FILE ACCESSED - user: joana.lima - file: contratos_2022.docx
+[2025-05-13 03:59:00] ACCESS DENIED - user: db_admin
+[2025-05-13 04:01:00] LOGOUT - user: admin - IP: 8.8.8.8
+[2025-05-13 04:05:00] FILE UPLOADED - user: db_admin - file: clientes
+[2025-05-13 04:10:00] SHARE CREATED - user: firewall - file: produtos
+[2025-05-13 04:14:00] LOGIN FAILURE - user: admin - IP: 190.85.20.101
+[2025-05-13 04:18:00] LOGOUT - user: file_server - IP: 190.85.20.101
+[2025-05-13 04:24:00] PASSWORD CHANGED - user: db_admin
+[2025-05-13 04:29:00] FILE DOWNLOADED - user: firewall - file: log_archive.zip
+[2025-05-13 04:33:00] PRIVILEGE ESCALATION - user: db_admin
+[2025-05-13 04:37:00] PASSWORD CHANGED - user: marina.alves
+[2025-05-13 04:42:00] PASSWORD CHANGED - user: file_server
+[2025-05-13 04:44:00] PRIVILEGE ESCALATION - user: paulo.souza
+[2025-05-13 04:47:00] BACKUP STARTED - user: firewall - database: sistema_central
+[2025-05-13 04:52:00] ACCESS DENIED - user: marina.alves
+[2025-05-13 04:57:00] PRIVILEGE ESCALATION - user: firewall
+[2025-05-13 05:00:00] LOGIN FAILURE - user: file_server - IP: 201.24.55.89
+[2025-05-13 05:01:00] FILE DOWNLOADED - user: file_server - file: produtos
+[2025-05-13 05:06:00] LOGIN SUCCESS - user: joana.lima - IP: 10.0.0.5
+[2025-05-13 05:07:00] FILE DELETED - user: file_server - file: relatorio_financeiro.pdf
+[2025-05-13 05:12:00] FILE ACCESSED - user: file_server - file: folha_pagamento.xls
+[2025-05-13 05:13:00] ACCESS DENIED - user: joana.lima
+[2025-05-13 05:14:00] LOGOUT - user: db_admin - IP: 172.16.0.3
+[2025-05-13 05:16:00] LOGIN FAILURE - user: firewall - IP: 201.24.55.89
+[2025-05-13 05:19:00] BACKUP STARTED - user: joana.lima - database: sistema_central
+[2025-05-13 05:25:00] PRIVILEGE ESCALATION - user: paulo.souza
+[2025-05-13 05:27:00] SHARE DELETED - user: admin - file: relatorio_financeiro.pdf
+[2025-05-13 05:31:00] ALLOWED CONNECTION - user: marina.alves - IP: 172.217.0.46
+[2025-05-13 05:36:00] SHARE DELETED - user: firewall - file: folha_pagamento.xls
+[2025-05-13 05:39:00] SHARE CREATED - user: carlos.oliveira - file: relatorio_financeiro.pdf
+[2025-05-13 05:44:00] SHARE CREATED - user: admin - file: contratos_2022.docx
+[2025-05-13 05:47:00] FILE DELETED - user: db_admin - file: usuarios
+[2025-05-13 05:50:00] QUERY EXECUTED - user: joana.lima - database: sistema_central
+[2025-05-13 05:56:00] INTRUSION ATTEMPT - user: db_admin - IP: 172.217.0.46
+[2025-05-13 05:57:00] FILE UPLOADED - user: marina.alves - file: produtos
+[2025-05-13 05:59:00] LOGIN SUCCESS - user: joana.lima - IP: 172.217.0.46
+[2025-05-13 06:00:00] DB LOGIN FAILURE - user: joana.lima - IP: 10.0.0.5
+[2025-05-13 06:03:00] FILE UPLOADED - user: joana.lima - file: usuarios
+[2025-05-13 06:09:00] ACCESS DENIED - user: file_server
+[2025-05-13 06:14:00] INTRUSION ATTEMPT - user: joana.lima - IP: 10.0.0.5
+[2025-05-13 06:15:00] PRIVILEGE ESCALATION - user: marina.alves
+[2025-05-13 06:19:00] PRIVILEGE ESCALATION - user: db_admin
+[2025-05-13 06:23:00] TABLE DROPPED - user: admin - database: sistema_central
+[2025-05-13 06:29:00] SHARE CREATED - user: joana.lima - file: contratos_2022.docx
+[2025-05-13 06:31:00] DB LOGIN SUCCESS - user: paulo.souza - IP: 172.217.0.46
+[2025-05-13 06:37:00] LOGOUT - user: paulo.souza - IP: 201.24.55.89
+[2025-05-13 06:40:00] DB LOGIN FAILURE - user: paulo.souza - IP: 172.217.0.46
+[2025-05-13 06:42:00] ALLOWED CONNECTION - user: paulo.souza - IP: 185.199.108.153
+[2025-05-13 06:46:00] LOGIN FAILURE - user: carlos.oliveira - IP: 172.217.0.46
+[2025-05-13 06:52:00] INTRUSION ATTEMPT - user: carlos.oliveira - IP: 10.0.0.5
+[2025-05-13 06:54:00] DB LOGIN SUCCESS - user: db_admin - IP: 190.85.20.101
+[2025-05-13 06:57:00] LOGIN FAILURE - user: firewall - IP: 10.0.0.5
+[2025-05-13 06:59:00] FILE DOWNLOADED - user: joana.lima - file: folha_pagamento.xls
+[2025-05-13 07:05:00] QUERY EXECUTED - user: joana.lima - database: sistema_central
+[2025-05-13 07:11:00] FILE ACCESSED - user: paulo.souza - file: relatorio_financeiro.pdf
+[2025-05-13 07:12:00] SHARE DELETED - user: paulo.souza - file: usuarios
+[2025-05-13 07:13:00] INTRUSION ATTEMPT - user: marina.alves - IP: 185.199.108.153
+[2025-05-13 07:17:00] DB LOGIN FAILURE - user: carlos.oliveira - IP: 192.168.0.12
+[2025-05-13 07:23:00] TABLE DROPPED - user: joana.lima - database: sistema_central
+[2025-05-13 07:24:00] LOGIN FAILURE - user: joana.lima - IP: 201.24.55.89
+[2025-05-13 07:28:00] FILE DELETED - user: marina.alves - file: dados_clientes.csv
+[2025-05-13 07:31:00] SHARE CREATED - user: carlos.oliveira - file: relatorio_financeiro.pdf
+[2025-05-13 07:37:00] LOGIN FAILURE - user: carlos.oliveira - IP: 192.168.0.12
+[2025-05-13 07:41:00] QUERY EXECUTED - user: firewall - database: sistema_central
+[2025-05-13 07:46:00] ALLOWED CONNECTION - user: joana.lima - IP: 172.217.0.46
+[2025-05-13 07:52:00] FILE DOWNLOADED - user: carlos.oliveira - file: usuarios
